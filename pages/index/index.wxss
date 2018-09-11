@@ -1,22 +1,22 @@
 @import "../../components/trip/trip.wxss";
 
-page{
+page {
   background-color: #f6f6f6;
 }
-.list{
+.list {
 }
-.m-trip{
+.m-trip {
   margin: 20rpx;
 }
-.trip-title{
+.trip-title {
   margin-bottom: 10rpx;
 }
-.loading{
+.loading {
   color: #b0b0b0;
   text-align: center;
   margin: 20rpx 0;
 }
-.loading-gif{
+.loading-gif {
   width: 220rpx;
   height: 42rpx;
   vertical-align: bottom;
