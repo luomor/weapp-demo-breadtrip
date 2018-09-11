@@ -1,13 +1,13 @@
 {
-  "name": "weapp-demo-breadtrip",
+  "name": "luomor_travel",
   "version": "0.0.1",
-  "description": "微信小程序示例 - 面包旅行",
+  "description": "烙馍旅行",
   "main": "app.js",
   "scripts": {
     "lint": "eslint"
   },
-  "keywords": ["breadtrip", "weapp"],
-  "author": "romoo chen <romoochen@gmail.com>",
+  "keywords": ["luomor", "weapp"],
+  "author": "Chunsheng zhang <zhangchunsheng423@gmail.com>",
   "license": "Apache-2.0",
   "devDependencies": {
     "eslint": "^3.9.1",
