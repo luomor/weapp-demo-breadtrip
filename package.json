@@ -1,6 +1,6 @@
 {
   "name": "luomor_travel",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "烙馍旅行",
   "main": "app.js",
   "scripts": {
