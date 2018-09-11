@@ -1,8 +1,8 @@
-page{
+page {
   font: 14px "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, STHeiti;
   line-height: 1.5;
 }
-.clearfix:after{
+.clearfix:after {
   content: '';
   clear: both;
   overflow: hidden;
