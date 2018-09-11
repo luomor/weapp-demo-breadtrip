@@ -1,10 +1,10 @@
 @import "../../components/poi/poi.wxss";
 
-page{
+page {
   background-color: #fbf7ed;
   margin-top: 90rpx;
 }
-.header{
+.header {
   position: fixed;
   top: 0;
   left: 0;
@@ -14,33 +14,33 @@ page{
   box-sizing: border-box;
   z-index: 100;
 }
-.nav{
+.nav {
   display: inline-block;
   margin: 10rpx 20rpx;
   white-space: nowrap;
   overflow: hidden;
 }
-.nav view{
+.nav view {
   color: #b0b0b0;
   display: inline-block;
   height: 50rpx;
   line-height: 50rpx;
   padding: 0 30rpx;
 }
-.nav .selected{
+.nav .selected {
   color: #fff;
   border-radius: 50rpx;
   background-image: linear-gradient(to top, #4abdcc, #51d7df);
 }
-.list{
+.list {
   position: absolute;
   top: 0;
   padding-top: 70rpx;
 }
-.m-poi{
+.m-poi {
   margin: 20rpx;
 }
-.loading{
+.loading {
   color: #999;
   text-align: center;
   margin: 20rpx 0;
